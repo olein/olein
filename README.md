@@ -1,6 +1,6 @@
 ### About Me
 <div align="center">
-  <img src="https://github.com/fahimfahad92/fahimfahad92/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
+  <img src="https://github.com/olein/olein/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
        width="500" height="300">
 </div>  
 <br/>    
