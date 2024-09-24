@@ -1,3 +1,5 @@
+### Profile moved to this repository: https://github.com/fahimfahad92
+
 ### About Me
 <div align="center">
   <img src="https://github.com/olein/olein/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
@@ -56,7 +58,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/olein" target="_blank">
+<a href="https://github.com/fahimfahad92" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fahimfahadcseju/" target="_blank">
